@@ -1,2 +1,1 @@
-# Machine-Learning-Stanford-Coursera-course
-Basic ML in Octave
+# gradientDescentMulti.m
